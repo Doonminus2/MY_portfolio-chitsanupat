@@ -1,4 +1,4 @@
---- ฝึกการเขียนเว็บเเนะนำตัว
+--- 
 name: HTML Starter
 slug: html-starter-with-analytics
 description: HTML5 template with analytics and advanced routing configuration.
